@@ -2,9 +2,6 @@
 
 # Member: Juling Fan, Ying-Yun Wang, Shangwei Liu, Ruyue Xiao, Junting Lyu
 
-# Abstract
-This project aims to predict the next day's stock price based on historical data collected from sources such as Google Finance and Nasdaq. By implementing data scraping and preprocessing techniques—including handling missing values, removing outliers, and ensuring data consistency—we will improve the reliability of our dataset. Our approach involves testing various prediction models, such as the Dual Moving Average Crossover Strategy, LSTM, and RNN. We will visualize our results using line plots of actual versus predicted prices and residual plots to compare model performance. The testing will be conducted on data collected over different time ranges to determine the optimal input window for accurate stock price prediction.
-
 # Goal: 
 Our goal is to develop a robust and accurate model for predicting the next day's stock price using historical data. This overarching goal encompasses several specific, measurable, achievable, relevant, and time-bound (SMART) objectives that will guide our project's development and evaluation. In terms of data collection and preprocessing, we aim to gather comprehensive historical stock price data from the past year using Google Finance and Nasdaq. We will develop and implement data preprocessing techniques to handle missing values, remove outliers, and ensure data consistency.
 
