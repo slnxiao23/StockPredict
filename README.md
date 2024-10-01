@@ -1,7 +1,5 @@
-# StockPredict 
+# StockPredict Proposal
 
-
-# Proposal
 Member: Juling Fan, Ying-Yun Wang, Shangwei Liu, Ruyue Xiao, Junting Lyu
 
 Abstract
