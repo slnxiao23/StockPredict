@@ -28,6 +28,5 @@ We will train on data collected over the past year, past three months, and past 
 # Potential Extensions: 
 If we complete our primary objectives ahead of schedule, we may consider the following extensions:
 
-1. Expanding our prediction horizon to weekly or monthly forecasts.
-
-2. Incorporating additional data sources, such as sentiment analysis from financial news, to enhance prediction accuracy.
+- Expanding our prediction horizon to weekly or monthly forecasts.
+- Incorporating additional data sources, such as sentiment analysis from financial news, to enhance prediction accuracy.
